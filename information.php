@@ -1,10 +1,10 @@
 <HTML>
     <head>
     <meta charset="utf-8" />
-    <title>資管系夏令營</title>
+    <title>資管系夏令營</title><center>
     <h2>資管系夏令營</h2>
     </head>
-    <body>
+<body>
     <h3>活動日期</h3>
     4/5~4/7
 <h3>• 活動內容</h3>
@@ -32,7 +32,7 @@
 12:00~14:00午餐休息時間<br>
 14:00 ~ 17:00沙灘活動<br>
 17:30~回程<br>
-<h1><a href="form.php">報名點此</a></h1><br>
+<h1><a href="form.php">報名點此</a></h1><br></center>
 </body>
 </div>
 </HTML>

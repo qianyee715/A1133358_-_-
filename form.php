@@ -8,10 +8,11 @@
         }
     </script>
 </head>
-<body>
+<body><center>
     <h1>資管系夏令營報名表單</h1>
     <form onsubmit="alertMessage()">   
         <p>姓名：<input type="text" name="name" required></p>
+        <p>學號：<input type="text" name="number" required></p>
         <p>出生年月日：<input type="date" name="birthday" required></p>
         <p>電話：<input type="tel" name="phone" required></p>
         <p>Email：<input type="email" name="email" required></p>
@@ -36,7 +37,7 @@
         </p>
         <p>
             <input type="submit" value="繳交報名表">
-            <input type="reset" value="重填">
+            <input type="reset" value="重填"></center>
         </p>
     </form>
     <br>
