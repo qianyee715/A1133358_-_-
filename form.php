@@ -2,10 +2,6 @@
 <head>
     <meta charset="utf-8" />
     <title>資管系夏令營報名表單</title>
-    <script>
-        function alertMessage() {
-            alert("報名完成！");
-        }
     </script>
 </head>
 <body><center>
